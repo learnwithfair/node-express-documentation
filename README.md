@@ -297,6 +297,8 @@ router.get("*", (req, res) => {
 - res.end()
 - res.append(key, value); this will set as response header
 
+![status-code](images/status-code.jpg)
+
 ### [2.8 HTTP Request part-1](https://youtu.be/141Q7XhGGS8)
 
 - request with query parameter - req.query.parameterName
