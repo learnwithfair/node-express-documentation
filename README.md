@@ -2,7 +2,7 @@
 
 Thanks for visiting my GitHub account!
 
-<img src ="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" height = "200px" width = "180px"/> **Express-js**, or simply **Express**, is a back end web application framework for building RESTful APIs with Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.js. [more](https://www.geeksforgeeks.org/express-js/)
+<img src ="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" height = "200px" width = "120px"/> **Express-js**, or simply **Express**, is a back end web application framework for building RESTful APIs with Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.js. [more](https://www.geeksforgeeks.org/express-js/)
 
 ## Source Code (Download)
 
