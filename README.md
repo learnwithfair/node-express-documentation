@@ -59,6 +59,19 @@ Thanks for visiting my GitHub account!
 7. Create an atlas account. In the atlas account create a cluster that have a user(as atlas admin) and network access with any access IP address.
 8. Connect the database using URL from the atlas cluster or local Mongodb compass using the mongoose package as mongoose. connect('mongodb://localhost:27017/database-name);
 
+## Mistakes
+
+|                          |                          |
+| :----------------------: | :----------------------: |
+| ![roadmap](images/0.jpg) | ![roadmap](images/1.jpg) |
+| ![roadmap](images/2.jpg) | ![roadmap](images/3.jpg) |
+| ![roadmap](images/4.jpg) | ![roadmap](images/5.jpg) |
+| ![roadmap](images/6.jpg) | ![roadmap](images/7.jpg) |
+
+|                                    |
+| :--------------------------------: |
+| ![roadmap](images/simple-code.jpg) |
+
 ## Total Chapters are following
 
 2. Express.js
